@@ -2435,8 +2435,8 @@ smsm100.on("ready", () => {
 
 //////////////// token lera dabne/////////
 
-smsm.login("");
-smsm2.login("");
+smsm.login("ODk0Njg4MzAzMTAwNjE2Nzg1.YVtqVg._IZnXDLG5cTbHXiSZ1mHnDCskLs");
+smsm2.login("ODk0Njg5NzcyMjg1NTk5ODQ0.YVtrlQ.Nxfxf2Sz8FXmtn01NsAFa85scxI");
 smsm3.login("");
 smsm4.login("");
 smsm5.login("");
